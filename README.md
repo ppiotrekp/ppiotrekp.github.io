@@ -1,2 +1,2 @@
 
-https://github.com/ppiotrekp/ppiotrekp.github.io
+https://ppiotrekp.github.io/
