@@ -2,5 +2,4 @@
 
 ## https://ppiotrekp.github.io/
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![aghlogo](https://user-images.githubusercontent.com/73071921/100114376-a9ce8c00-2e71-11eb-851a-83e7896219e2.jpg)
