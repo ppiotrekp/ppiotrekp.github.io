@@ -8,3 +8,4 @@ Shahu is a state of the art chess simulator. It allows players to dive into incr
 ![Shahu screenshot](shahu-mainMenu.png)
 
 *This claim is disputed.
+'https://github.com/senior-cpp-developer/senior-cpp-developer.github.io/raw/main/shahu-mainMenu.png'
