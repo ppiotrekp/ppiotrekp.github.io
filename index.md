@@ -1,6 +1,6 @@
 ## Witam na mojej stronie
 
- To jest mój adres e-mail
+ To link do mojej strony
 ## https://ppiotrekp.github.io/
 
  To jest mój zespół
