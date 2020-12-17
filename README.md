@@ -5,7 +5,7 @@ https://ppiotrekp.github.io/
 ### Shahu
 Shahu is a state of the art chess simulator. It allows players to dive into incredible world of pawns, farsighted tactics and time management. Thanks to recent advancements in the area of machine learning, big data and artificial intelligence, gamers are able to face one of the most complex and sophisticated AI alghoritms available*. All of this can be experienced in high framerates (240FPS) and crisp, colorful, two-dimensional graphics.
 
-![Shahu screenshot](https://github.com/senior-cpp-developer/senior-cpp-developer.github.io/raw/main/shahu-mainMenu.png)
+![Shahu screenshot](img width="537" alt="shahu-mainMenu" src="https://user-images.githubusercontent.com/73071921/102538380-7a93ef00-40ac-11eb-9642-cbe619dfe780.png)
 
 
 *This claim is disputed.
